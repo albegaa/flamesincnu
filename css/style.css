@@ -50,7 +50,7 @@ section .containera h2{
     margin-right: auto;
 }
 .container2, .containerb{
-    width: 300px;
+    width: fit-content;
     height: fit-content;
     padding-left: 30px;
     padding-right: 30px;
