@@ -25,6 +25,9 @@ a{
     color: white;
 }
 section .containera h2{
+    color: rgb(94, 168, 255);
+    font-family: 'Poor Story', cursive;
+
     font-size: 25px;
     font-weight: bold;
     padding-top: 45px;
