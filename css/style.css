@@ -65,7 +65,7 @@ section .containera h2{
 
 .line-spacing {
     display: block;  /* 줄마다 블록으로 만들어서 줄 간격을 조정할 수 있게 함 */
-    margin-bottom: -13px;  /* 각 항목 사이에 10px의 간격을 추가 */
+    margin-bottom: -12px;  /* 각 항목 사이에 10px의 간격을 추가 */
 }
 
 
