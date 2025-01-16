@@ -15,6 +15,7 @@ body{
     color: white;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Dodum&family=Poor+Story&display=swap');
   
 ul{
     list-style-type: none;
@@ -100,21 +101,25 @@ section .containera h2{
     padding-bottom: 70px;
 }
 #invitation .containera p{
-    font-size: 14px;
+    font-family: 'Poor Story', cursive;
+    font-size: 15px;
     text-align: left;
     padding-bottom: 40px;
     line-height: 24px;
 }
 #invitation .containera p .orange {
+    font-family: 'Poor Story', cursive;
     color: rgb(233, 84, 0);
 }
 #invitation .containerb p{
-    font-size: 14px;
+    font-family: 'Poor Story', cursive;
+    font-size: 15px;
     text-align: left;
     padding-bottom: 40px;
     line-height: 24px;
 }
 #invitation .containerb p .orange {
+    font-family: 'Poor Story', cursive;
     color: rgb(233, 84, 0);
 }
 
