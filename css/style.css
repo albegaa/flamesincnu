@@ -44,7 +44,7 @@ section .containera h2{
 .container2, .containera{
     width: fit-content;
     height: fit-content;
-    padding-left: 30px;
+    padding-left: 20px;
     padding-right: 30px;
 
     margin-left: 0;
@@ -54,7 +54,7 @@ section .containera h2{
     width: fit-content;
     height: fit-content;
     padding-left: 30px;
-    padding-right: 30px;
+    padding-right: 50px;
 
     margin-left: auto;
     margin-right: 0;
@@ -104,7 +104,7 @@ section .containera h2{
     font-family: 'Poor Story', cursive;
     font-size: 17px;
     text-align: left;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
     line-height: 24px;
 }
 #invitation .containera p .orange {
@@ -115,7 +115,7 @@ section .containera h2{
     font-family: 'Poor Story', cursive;
     font-size: 17px;
     text-align: left;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
     line-height: 24px;
 }
 #invitation .containerb p .orange {
