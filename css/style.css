@@ -154,6 +154,7 @@ section .containera h2{
 #photo .container figure{
     width: 100%;
     height: 100%;
+    margin: auto;
 }
 #photo .container figure img{
     width: 100%;
