@@ -42,9 +42,6 @@ section .containera h2{
     height: fit-content;
     padding-left: 30px;
     padding-right: 30px;
-}
-
-.container{
     margin: auto;
 }
 
@@ -231,6 +228,7 @@ section .containera h2{
 .slick-current {
   opacity: 1;
 }
+
 
 
 
