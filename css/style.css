@@ -166,6 +166,8 @@ section .containera h2{
     height: 100%;
     object-fit: cover;
     display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 #photo .container .galleryList{
     display: flex;
@@ -229,6 +231,7 @@ section .containera h2{
 .slick-current {
   opacity: 1;
 }
+
 
 
 
