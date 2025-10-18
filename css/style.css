@@ -44,9 +44,7 @@ section .containera h2{
     padding-right: 30px;
 }
 
-.container
-Specificity: (0,1,0)
- {
+.container{
     margin: auto;
 }
 
@@ -233,6 +231,7 @@ Specificity: (0,1,0)
 .slick-current {
   opacity: 1;
 }
+
 
 
 
