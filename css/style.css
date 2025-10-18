@@ -157,6 +157,8 @@ section .containera h2{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 #photo .container figure img{
     width: 100%;
@@ -227,6 +229,7 @@ section .containera h2{
 .slick-current {
   opacity: 1;
 }
+
 
 
 
