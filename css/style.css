@@ -223,10 +223,15 @@ section .containera h2{
   
 }
 
-
-
 .slick-current {
   opacity: 1;
+}
+
+@media (min-width: 768px) {
+  body {
+    max-width: 600px;
+    margin: 0 auto;
+  }
 }
 
 
